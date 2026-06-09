@@ -1,4 +1,5 @@
- AIM:
+# Ex-2-MODE-CHARACTERISTICS-OF-REFLEX-KLYSTRON
+## AIM:
 
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
@@ -70,12 +71,12 @@ If the main supply failed in the middle of the experiment, come to 1st condition
 
 Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-TABULATION:
+## TABULATION:
+<img width="1280" height="895" alt="image" src="https://github.com/user-attachments/assets/451ff29e-296d-414f-aff5-62cff136cccf" />
 
-
-GRAPH:
-
+## GRAPH:
+<img width="1080" height="1424" alt="WhatsApp Image 2026-06-09 at 15 29 34" src="https://github.com/user-attachments/assets/630497dd-631c-4cbe-b896-65ea6ed6e105" />
 
 
 ## RESULT:
-Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory 
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
